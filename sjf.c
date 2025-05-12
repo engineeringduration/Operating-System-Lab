@@ -15,9 +15,15 @@ int main() {
     }
 
     // Sort processes by burst time (SJF Scheduling)
+    // Using Bubble Sort for simplicity
+    // In a real-world scenario, you might want to use a more efficient sorting algorithm
+    // like Quick Sort or Merge Sort
+    // Bubble Sort
+    // Sort burst time and maintain process ID consistency
+    
     for(i = 0; i < numberOfProcesses - 1; i++) {
         for(j = i + 1; j < numberOfProcesses; j++) {
-            if(burstTime[i] > burstTime[j]) {
+            if(burstTime[i] > burstTime[j]) {   
                 // Swap burst time
                 temp = burstTime[i];
                 burstTime[i] = burstTime[j];
