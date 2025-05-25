@@ -36,7 +36,7 @@ A classic synchronization problem where:
 
 ## 🖼️ Diagram
 
-![Producer Consumer Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Producer-consumer.svg/640px-Producer-consumer.svg.png)
+![Producer Consumer Diagram](image.png)
 
 ---
 
