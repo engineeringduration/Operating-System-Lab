@@ -80,7 +80,7 @@ File No   File Size   Block No   Block Size   Fragment
 📝 License
 MIT License – free to use, modify, and contribute.
 
-🙌 Contributions Welcome
+# 🙌 Contributions Welcome
 Feel free to open a PR to:
 
 Add new strategies like Next Fit
