@@ -13,7 +13,7 @@ This directory contains an implementation of the classic **Readers–Writers Pro
 
 | File | Description |
 |------|-------------|
-| `reader_writer.c` | Fully‑commented C source implementing the writer‑priority Readers–Writers solution |
+| `readerWriter.c` | Fully‑commented C source implementing the writer‑priority Readers–Writers solution |
 
 ---
 
