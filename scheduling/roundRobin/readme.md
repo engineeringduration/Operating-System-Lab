@@ -61,7 +61,7 @@ Average Waiting Time: 5.67
 Average Turnaround Time: 15.67
 ```
 ### Gantt chart
-![Gantt Chart](image.png)
+![Gantt Chart](GanttChart.png)
 ---
 
 ## 🧮 Key Concepts
