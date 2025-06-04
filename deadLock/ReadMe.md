@@ -87,11 +87,7 @@ If no safe sequence exists, the algorithm reports:
 System is not in a safe state ❌
 ```
 
----
 
-## 🖼️ Visual Reference
-
-![Banker's Algorithm](https://www.researchgate.net/profile/Nabeel-Khan-4/publication/325173511/figure/fig1/AS:627870228594688@1526547159798/Bankers-algorithm-example.png)
 
 ---
 
