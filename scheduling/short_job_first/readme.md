@@ -63,9 +63,9 @@ P1        8            16             24
 Average Waiting Time -- 7.00
 Average Turnaround Time -- 13.00
 ```
-###Gantt Chart
+###  Gantt Chart
 
-![Gantt Chart](image.png)
+![Gantt Chart](GanttChart.png)
 
 ---
 
