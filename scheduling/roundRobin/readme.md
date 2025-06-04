@@ -99,14 +99,7 @@ Released under the **MIT License** – free to use, modify, and distribute.
 You can contribute by:
 
 * Adding arrival time support
-* Drawing Gantt charts
 * Porting to Python/Java
 
 Pull requests are welcome! 🔄🚀
 
-```
-
----
-
-Would you like me to do the same for **SJF**, **Priority**, or **Banker's Algorithm** next?
-```
