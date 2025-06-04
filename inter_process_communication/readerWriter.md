@@ -16,7 +16,11 @@ This directory contains an implementation of the classic **Readers–Writers Pro
 | `readerWriter.c` | Fully‑commented C source implementing the writer‑priority Readers–Writers solution |
 
 ---
+<div style="text-align: center;">
+    <img src="https://files.prepinsta.com/2023/01/reader-writer-problem.webp" alt="Profile-gif" width="100%">
+</div>
 
+---
 ## 📌 Quick Theory
 
 | Term | Meaning |
@@ -39,12 +43,6 @@ gcc reader_writer.c -lpthread -o reader_writer
 ```
 
 Press **Ctrl+C** to stop the demo (threads loop indefinitely).
-
----
-
-## 🖼️ Sequence Diagram
-
-![Readers Writers Diagram](https://static-00.iconduck.com/assets.00/readers-writers-problem-illustration-512x282-alt.png)
 
 ---
 
